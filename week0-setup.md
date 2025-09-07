@@ -71,7 +71,7 @@ Your lab consists of two machines that you will build and use throughout the tra
      - OS name and version  
      - Kernel version  
      - System uptime at the time of login  
-   - Use `nano`, `vim`, or `echo` with redirection to create the file.  
+   - Be ready to talk about the challenges and new things you learned.
 
 ---
 
