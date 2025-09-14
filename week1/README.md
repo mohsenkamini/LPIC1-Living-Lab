@@ -18,6 +18,10 @@ Your task is to perform a series of controlled experiments to explore these laye
 
 ## Tasks
 
+### 0. Watch Related Course Videos
+- Videos 3-6 of [this playlist](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU) 
+
+
 ### 1. Add and Inspect Two Different Virtual Disks
 - Add **two new empty virtual disks** with minimum size to your Ubuntu Server VM:  
   - One using **NVMe** Controller   
@@ -85,4 +89,4 @@ Your task is to perform a series of controlled experiments to explore these laye
 - `man lsblk`, `man udevadm`, `man lsmod`
 - `/sys/block/`, `/proc/`, `/dev/`
 - [LPIC-1 Objectives](https://www.lpi.org/our-certifications/lpic-1-overview)
- 
+- Videos 3-6 of [this playlist](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU) 
