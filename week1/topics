@@ -1,0 +1,7 @@
+UEFI 
+BIOS
+SATA
+PCIe
+SCSI
+lsmod, modprobe, .... (blacklist kernel module for webcam)
+
